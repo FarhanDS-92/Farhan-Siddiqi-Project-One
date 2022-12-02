@@ -1,6 +1,2 @@
 @use "./partials/setup";
 @use "./partials/variables" as *;
-
-html {
-    font-family: $headingFont;
-}
